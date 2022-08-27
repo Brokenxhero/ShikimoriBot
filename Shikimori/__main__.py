@@ -52,6 +52,7 @@ from Shikimori import(
 # NOTE: Module order is not guaranteed, specify that in the config file!
 from Shikimori.modules import ALL_MODULES
 from telegram import ParseMode, Update
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.error import (
     BadRequest,
     Unauthorized,
