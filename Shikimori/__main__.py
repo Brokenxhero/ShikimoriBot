@@ -201,7 +201,7 @@ def main():
                   [                  
                        InlineKeyboardButton(
                              text="• KAMUI •",
-                             url="https://t.me/@Obitouchiha_probot?startgroup=true")
+                             url="https://t.me/Obitouchiha_probot?startgroup=true")
                      ] 
                 ]
             ),
