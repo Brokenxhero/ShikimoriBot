@@ -119,7 +119,7 @@ def stats(update, context):
                         [                  
                             InlineKeyboardButton(
                                     text="REPO",
-                                    url="https://github.com/SOME-1HING/ShikimoriBot"),
+                                    url="https://t.me/Brokenhero_08"),
                         ]
                     ]
                 ),
@@ -142,7 +142,7 @@ def stats(update, context):
                   [                  
                        InlineKeyboardButton(
                                 text="Owner",
-                                url="https://t.me/@Brokenhero_08"),
+                                url="https://t.me/Brokenhero_08"),
                      ] 
                 ]
             ),
